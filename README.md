@@ -8,3 +8,8 @@
 - Learning automotive protocols (CAN, LIN, FlexRay)
 - Participating in CTFs
 - Contributing to open source
+
+## Progress Tracker
+- Day 0: Environment setup
+- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d940f48-be3c-410b-b0c1-6c9bdc4bf9b9" />
+
